@@ -25,3 +25,4 @@ def extract_data():
     for file in data_locations:
         with zipfile.ZipFile(file) as z:
             z.extractall('./datasets/')
+    print('Data extracted!')
