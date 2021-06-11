@@ -14,10 +14,10 @@ Note that the changes you make to this binder will not be committed to the respo
 ## Running locally
 1. install pip and python
 2. (optional but recommended) create python virtual environment and activate it
-3. run `pip install requirements.txt` to get all the packages you need
+3. run `pip install -r requirements.txt` to get all the packages you need
 4. Install jupyter notebook
 5. Run jupyter notebook to start the notebook server
-6. 
+
 ## Workshop Challenge - Fine Tuning your ML Classifier
 Get involved by participating in our workshop challenge! We are offering amazon vouchers to the winners of the following categories:
 1. Best overall solution - £150
