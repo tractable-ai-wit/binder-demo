@@ -23,7 +23,8 @@ Note that the changes you make to this binder will not be committed to the respo
 Get involved by participating in our workshop challenge! We are offering amazon vouchers to the winners of the following categories:
 1. Best overall solution - £150
 2. Best choice of metrics - £75
-3. Most innovative solution - £75  
+3. Most innovative solution - £75
+
 To participate in the challenge, fork this repository and follow the instructions above to run locally. Then, make a pull request and send us an email with a screenshot of your results. You can contact us at: james.lucioni@tractable.ai
 
 ## Citations
