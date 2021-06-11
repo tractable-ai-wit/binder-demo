@@ -24,7 +24,7 @@ Get involved by participating in our workshop challenge! We are offering amazon 
 1. Best overall solution - £150
 2. Best choice of metrics - £75
 3. Most innovative solutoin - £75
-To participate in the challenge, clone this repository and follow the instructions in Section 5. Then, make a pull request and send us an email with a screenshot of your results. You can contact us at: james.lucioni@tractable.ai
+To participate in the challenge, fork this repository and follow the instructions in Section 5. Then, make a pull request and send us an email with a screenshot of your results. You can contact us at: james.lucioni@tractable.ai
 
 ## Citations
 This workshop was built while referencing these fantastic sources from tensorflow:
