@@ -12,11 +12,12 @@ To start up a fresh binder that runs the code in this repo, please click the lin
 Note that the changes you make to this binder will not be committed to the respository, and you will lose your changes if you close the binder.
 
 ## Running locally
-1. install pip and python
-2. (optional but recommended) create python virtual environment and activate it
-3. run `pip install -r requirements.txt` to get all the packages you need
-4. Install jupyter notebook
-5. Run jupyter notebook to start the notebook server
+1. Clone this repo.
+2. Install [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/) if needed.
+3. (Optional but recommended) create [python virtual environment](https://docs.python.org/3/library/venv.html) and activate it.
+4. Run `pip install -r requirements.txt` to get all the packages you need
+5. Install jupyter notebook using `pip install notebook`
+6. Run `jupyter notebook` to start the notebook server
 
 ## Workshop Challenge - Fine Tuning your ML Classifier
 Get involved by participating in our workshop challenge! We are offering amazon vouchers to the winners of the following categories:
